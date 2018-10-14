@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Version>0.0.1</Version>
+    <Authors>Danny Brown</Authors>
+    <Company>Andgasm Software Solutions</Company>
+    <Description>A simple service bus wrapper library that provides interfaces for different service bus impls</Description>
+    <RepositoryUrl>https://github.com/themachinagod/Andgasm.ServiceBus</RepositoryUrl>
+    <PackageTags>ServiceBus, Azure, RabbitMQ, Wrapper, Library</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
