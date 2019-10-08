@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>0.0.2</Version>
+    <Version>0.0.3</Version>
     <Authors>Danny Brown</Authors>
     <Company>Andgasm</Company>
     <Description>Simple service bus wrapper supporting either Azure or RabbitMQ</Description>
